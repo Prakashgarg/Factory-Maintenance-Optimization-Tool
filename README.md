@@ -1,4 +1,4 @@
-# Factory Maintenance Optimization Tool (FMSS)
+# Factory Maintenance Optimization Tool 
 
 Factory Maintenance Optimization Tool (FMSS) is a console-based C++ simulation program designed to help factory managers determine the optimal number of maintenance workers (called "adjusters") needed to minimize downtime while controlling labor costs.
 
